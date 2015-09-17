@@ -1,0 +1,1 @@
+This folder contains external data that are not loaded by default.

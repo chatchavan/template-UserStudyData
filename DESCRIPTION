@@ -1,0 +1,15 @@
+Package: TODO
+Title: Data and analysis scripts for the TODO study
+Version: 0.0.0.9000
+Authors@R: person("Chat", "Wacharamanotham", email = "chat@acm.org", role = c("aut", "cre"))
+Description: This package contains data and analysis script for the TODO study
+Depends: R (>= 3.1.2)
+License: Proprietary
+LazyData: true
+Imports:
+    assertthat,
+    GetoptLong,
+    car,
+    stringr,
+    ggplot2,
+    RColorBrewer,

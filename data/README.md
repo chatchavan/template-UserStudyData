@@ -1,0 +1,1 @@
+This folder contains data in .rda format. They are generated from ../data-raw/generate.R
